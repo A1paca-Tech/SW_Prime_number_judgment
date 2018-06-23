@@ -1,0 +1,10 @@
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\bin\Debug\Prime_number_judgment.exe.config
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\bin\Debug\Prime_number_judgment.exe
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\bin\Debug\Prime_number_judgment.pdb
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\obj\Debug\Prime_number_judgment.csprojAssemblyReference.cache
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\obj\Debug\Prime_number_judgment.Form1.resources
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\obj\Debug\Prime_number_judgment.Properties.Resources.resources
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\obj\Debug\Prime_number_judgment.csproj.GenerateResource.cache
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\obj\Debug\Prime_number_judgment.csproj.CoreCompileInputs.cache
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\obj\Debug\Prime_number_judgment.exe
+D:\My_Program\Projects\school_work\Prime_number_judgment\Prime_number_judgment\obj\Debug\Prime_number_judgment.pdb
